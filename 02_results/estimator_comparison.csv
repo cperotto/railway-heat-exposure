@@ -1,0 +1,6 @@
+estimate,deg_C
+"Part 1: Terra 8-day mean along network (morning, drifted, averaged)",31.5
+Fix 1: daily MODIS window max along network (afternoon capable),40.9
+"Fix 2: Landsat 30 m max along network (morning, corridor-resolving)",48.4
+Air temperature max (DWD anchor),39.0
+Rail steel envelope (exposed track),49 - 59
